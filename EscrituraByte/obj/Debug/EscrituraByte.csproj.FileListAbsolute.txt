@@ -1,0 +1,7 @@
+F:\GITHUB\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+F:\GITHUB\EscrituraByte\bin\Debug\EscrituraByte.exe
+F:\GITHUB\EscrituraByte\bin\Debug\EscrituraByte.pdb
+F:\GITHUB\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+F:\GITHUB\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+F:\GITHUB\EscrituraByte\obj\Debug\EscrituraByte.exe
+F:\GITHUB\EscrituraByte\obj\Debug\EscrituraByte.pdb
